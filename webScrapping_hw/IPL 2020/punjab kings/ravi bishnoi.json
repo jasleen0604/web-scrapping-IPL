@@ -1,0 +1,37 @@
+[
+  {
+    "runs": "1",
+    "balls": "5",
+    "fours": "0",
+    "sixes": "0",
+    "SR": "20.00",
+    "venue": "Abu Dhabi",
+    "date": "Oct 1 2020",
+    "opponent": "Mumbai Indians",
+    "result": "Mum Indians won by 48 runs"
+  }
+][
+  {
+    "runs": "0",
+    "balls": "0",
+    "fours": "0",
+    "sixes": "0",
+    "SR": "0.00",
+    "venue": "Dubai",
+    "date": "Oct 24 2020",
+    "opponent": "Sunrisers Hyderabad",
+    "result": "Kings XI won by 12 runs"
+  }
+][
+  {
+    "runs": "6",
+    "balls": "7",
+    "fours": "1",
+    "sixes": "0",
+    "SR": "85.71",
+    "venue": "Dubai",
+    "date": "Oct 8 2020",
+    "opponent": "Sunrisers Hyderabad",
+    "result": "Sunrisers won by 69 runs"
+  }
+]

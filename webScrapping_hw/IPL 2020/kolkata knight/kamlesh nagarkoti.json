@@ -1,0 +1,73 @@
+[
+  {
+    "runs": "8",
+    "balls": "5",
+    "fours": "1",
+    "sixes": "0",
+    "SR": "160.00",
+    "venue": "Dubai",
+    "date": "Sep 30 2020",
+    "opponent": "Rajasthan Royals",
+    "result": "KKR won by 37 runs"
+  }
+][
+  {
+    "runs": "3",
+    "balls": "3",
+    "fours": "0",
+    "sixes": "0",
+    "SR": "100.00",
+    "venue": "Sharjah",
+    "date": "Oct 3 2020",
+    "opponent": "Delhi Capitals",
+    "result": "Capitals won by 18 runs"
+  }
+][
+  {
+    "runs": "6",
+    "balls": "13",
+    "fours": "0",
+    "sixes": "0",
+    "SR": "46.15",
+    "venue": "Sharjah",
+    "date": "Oct 26 2020",
+    "opponent": "Punjab Kings",
+    "result": "Kings XI won by 8 wickets (with 7 balls remaining)"
+  }
+][
+  {
+    "runs": "0",
+    "balls": "2",
+    "fours": "0",
+    "sixes": "0",
+    "SR": "0.00",
+    "venue": "Abu Dhabi",
+    "date": "Oct 7 2020",
+    "opponent": "Chennai Super Kings",
+    "result": "KKR won by 10 runs"
+  }
+][
+  {
+    "runs": "1",
+    "balls": "1",
+    "fours": "0",
+    "sixes": "0",
+    "SR": "100.00",
+    "venue": "Dubai",
+    "date": "Nov 1 2020",
+    "opponent": "Rajasthan Royals",
+    "result": "KKR won by 60 runs"
+  }
+][
+  {
+    "runs": "4",
+    "balls": "7",
+    "fours": "0",
+    "sixes": "0",
+    "SR": "57.14",
+    "venue": "Sharjah",
+    "date": "Oct 12 2020",
+    "opponent": "Royal Challengers Bangalore",
+    "result": "RCB won by 82 runs"
+  }
+]

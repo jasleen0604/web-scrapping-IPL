@@ -1,0 +1,25 @@
+[
+  {
+    "runs": "1",
+    "balls": "3",
+    "fours": "0",
+    "sixes": "0",
+    "SR": "33.33",
+    "venue": "Sharjah",
+    "date": "Nov 3 2020",
+    "opponent": "Sunrisers Hyderabad",
+    "result": "Sunrisers won by 10 wickets (with 17 balls remaining)"
+  }
+][
+  {
+    "runs": "24",
+    "balls": "12",
+    "fours": "4",
+    "sixes": "0",
+    "SR": "200.00",
+    "venue": "Dubai",
+    "date": "Oct 18 2020",
+    "opponent": "Punjab Kings",
+    "result": "Match tied (Kings XI won the one-over eliminator)"
+  }
+]

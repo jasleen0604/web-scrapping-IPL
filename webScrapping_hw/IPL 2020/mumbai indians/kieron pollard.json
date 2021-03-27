@@ -1,0 +1,121 @@
+[
+  {
+    "runs": "25",
+    "balls": "13",
+    "fours": "0",
+    "sixes": "3",
+    "SR": "192.31",
+    "venue": "Sharjah",
+    "date": "Oct 4 2020",
+    "opponent": "Sunrisers Hyderabad",
+    "result": "Mum Indians won by 34 runs"
+  }
+][
+  {
+    "runs": "47",
+    "balls": "20",
+    "fours": "3",
+    "sixes": "4",
+    "SR": "235.00",
+    "venue": "Abu Dhabi",
+    "date": "Oct 1 2020",
+    "opponent": "Punjab Kings",
+    "result": "Mum Indians won by 48 runs"
+  }
+][
+  {
+    "runs": "11",
+    "balls": "14",
+    "fours": "1",
+    "sixes": "0",
+    "SR": "78.57",
+    "venue": "Abu Dhabi",
+    "date": "Oct 11 2020",
+    "opponent": "Delhi Capitals",
+    "result": "Mum Indians won by 5 wickets (with 2 balls remaining)"
+  }
+][
+  {
+    "runs": "41",
+    "balls": "25",
+    "fours": "2",
+    "sixes": "4",
+    "SR": "164.00",
+    "venue": "Sharjah",
+    "date": "Nov 3 2020",
+    "opponent": "Sunrisers Hyderabad",
+    "result": "Sunrisers won by 10 wickets (with 17 balls remaining)"
+  }
+][
+  {
+    "runs": "9",
+    "balls": "4",
+    "fours": "2",
+    "sixes": "0",
+    "SR": "225.00",
+    "venue": "Dubai",
+    "date": "Nov 10 2020",
+    "opponent": "Delhi Capitals",
+    "result": "Mum Indians won by 5 wickets (with 8 balls remaining)"
+  }
+][
+  {
+    "runs": "0",
+    "balls": "2",
+    "fours": "0",
+    "sixes": "0",
+    "SR": "0.00",
+    "venue": "Dubai",
+    "date": "Nov 5 2020",
+    "opponent": "Delhi Capitals",
+    "result": "Mum Indians won by 57 runs"
+  }
+][
+  {
+    "runs": "13",
+    "balls": "7",
+    "fours": "1",
+    "sixes": "0",
+    "SR": "185.71",
+    "venue": "Abu Dhabi",
+    "date": "Sep 23 2020",
+    "opponent": "Kolkata Knight Riders",
+    "result": "Mum Indians won by 49 runs"
+  }
+][
+  {
+    "runs": "34",
+    "balls": "12",
+    "fours": "1",
+    "sixes": "4",
+    "SR": "283.33",
+    "venue": "Dubai",
+    "date": "Oct 18 2020",
+    "opponent": "Punjab Kings",
+    "result": "Match tied (Kings XI won the one-over eliminator)"
+  }
+][
+  {
+    "runs": "60",
+    "balls": "24",
+    "fours": "3",
+    "sixes": "5",
+    "SR": "250.00",
+    "venue": "Dubai",
+    "date": "Sep 28 2020",
+    "opponent": "Royal Challengers Bangalore",
+    "result": "Match tied (RCB won the one-over eliminator)"
+  }
+][
+  {
+    "runs": "18",
+    "balls": "14",
+    "fours": "1",
+    "sixes": "1",
+    "SR": "128.57",
+    "venue": "Abu Dhabi",
+    "date": "Sep 19 2020",
+    "opponent": "Chennai Super Kings",
+    "result": "Super Kings won by 5 wickets (with 4 balls remaining)"
+  }
+]

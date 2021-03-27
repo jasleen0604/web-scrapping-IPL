@@ -1,0 +1,37 @@
+[
+  {
+    "runs": "7",
+    "balls": "8",
+    "fours": "1",
+    "sixes": "0",
+    "SR": "87.50",
+    "venue": "Abu Dhabi",
+    "date": "Oct 1 2020",
+    "opponent": "Mumbai Indians",
+    "result": "Mum Indians won by 48 runs"
+  }
+][
+  {
+    "runs": "14",
+    "balls": "9",
+    "fours": "2",
+    "sixes": "0",
+    "SR": "155.56",
+    "venue": "Dubai",
+    "date": "Oct 4 2020",
+    "opponent": "Chennai Super Kings",
+    "result": "Super Kings won by 10 wickets (with 14 balls remaining)"
+  }
+][
+  {
+    "runs": "12",
+    "balls": "12",
+    "fours": "2",
+    "sixes": "0",
+    "SR": "100.00",
+    "venue": "Dubai",
+    "date": "Sep 20 2020",
+    "opponent": "Delhi Capitals",
+    "result": "Match tied (Capitals won the one-over eliminator)"
+  }
+]

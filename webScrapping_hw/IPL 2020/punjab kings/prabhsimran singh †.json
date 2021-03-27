@@ -1,0 +1,25 @@
+[
+  {
+    "runs": "4",
+    "balls": "7",
+    "fours": "0",
+    "sixes": "0",
+    "SR": "57.14",
+    "venue": "Abu Dhabi",
+    "date": "Oct 10 2020",
+    "opponent": "Kolkata Knight Riders",
+    "result": "KKR won by 2 runs"
+  }
+][
+  {
+    "runs": "11",
+    "balls": "8",
+    "fours": "2",
+    "sixes": "0",
+    "SR": "137.50",
+    "venue": "Dubai",
+    "date": "Oct 8 2020",
+    "opponent": "Sunrisers Hyderabad",
+    "result": "Sunrisers won by 69 runs"
+  }
+]

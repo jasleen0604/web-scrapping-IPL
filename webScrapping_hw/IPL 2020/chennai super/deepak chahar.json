@@ -1,0 +1,37 @@
+[
+  {
+    "runs": "0",
+    "balls": "5",
+    "fours": "0",
+    "sixes": "0",
+    "SR": "0.00",
+    "venue": "Sharjah",
+    "date": "Oct 23 2020",
+    "opponent": "Mumbai Indians",
+    "result": "Mum Indians won by 10 wickets (with 46 balls remaining)"
+  }
+][
+  {
+    "runs": "2",
+    "balls": "2",
+    "fours": "0",
+    "sixes": "0",
+    "SR": "100.00",
+    "venue": "Dubai",
+    "date": "Oct 13 2020",
+    "opponent": "Sunrisers Hyderabad",
+    "result": "Super Kings won by 20 runs"
+  }
+][
+  {
+    "runs": "5",
+    "balls": "5",
+    "fours": "0",
+    "sixes": "0",
+    "SR": "100.00",
+    "venue": "Dubai",
+    "date": "Oct 10 2020",
+    "opponent": "Royal Challengers Bangalore",
+    "result": "RCB won by 37 runs"
+  }
+]

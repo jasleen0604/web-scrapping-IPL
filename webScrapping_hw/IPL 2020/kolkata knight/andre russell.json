@@ -1,0 +1,109 @@
+[
+  {
+    "runs": "24",
+    "balls": "14",
+    "fours": "0",
+    "sixes": "3",
+    "SR": "171.43",
+    "venue": "Dubai",
+    "date": "Sep 30 2020",
+    "opponent": "Rajasthan Royals",
+    "result": "KKR won by 37 runs"
+  }
+][
+  {
+    "runs": "12",
+    "balls": "9",
+    "fours": "1",
+    "sixes": "1",
+    "SR": "133.33",
+    "venue": "Abu Dhabi",
+    "date": "Oct 16 2020",
+    "opponent": "Mumbai Indians",
+    "result": "Mum Indians won by 8 wickets (with 19 balls remaining)"
+  }
+][
+  {
+    "runs": "13",
+    "balls": "8",
+    "fours": "1",
+    "sixes": "1",
+    "SR": "162.50",
+    "venue": "Sharjah",
+    "date": "Oct 3 2020",
+    "opponent": "Delhi Capitals",
+    "result": "Capitals won by 18 runs"
+  }
+][
+  {
+    "runs": "9",
+    "balls": "11",
+    "fours": "1",
+    "sixes": "0",
+    "SR": "81.82",
+    "venue": "Abu Dhabi",
+    "date": "Oct 18 2020",
+    "opponent": "Sunrisers Hyderabad",
+    "result": "Match tied (KKR won the one-over eliminator)"
+  }
+][
+  {
+    "runs": "11",
+    "balls": "11",
+    "fours": "2",
+    "sixes": "0",
+    "SR": "100.00",
+    "venue": "Abu Dhabi",
+    "date": "Sep 23 2020",
+    "opponent": "Mumbai Indians",
+    "result": "Mum Indians won by 49 runs"
+  }
+][
+  {
+    "runs": "2",
+    "balls": "4",
+    "fours": "0",
+    "sixes": "0",
+    "SR": "50.00",
+    "venue": "Abu Dhabi",
+    "date": "Oct 7 2020",
+    "opponent": "Chennai Super Kings",
+    "result": "KKR won by 10 runs"
+  }
+][
+  {
+    "runs": "5",
+    "balls": "3",
+    "fours": "1",
+    "sixes": "0",
+    "SR": "166.67",
+    "venue": "Abu Dhabi",
+    "date": "Oct 10 2020",
+    "opponent": "Punjab Kings",
+    "result": "KKR won by 2 runs"
+  }
+][
+  {
+    "runs": "25",
+    "balls": "11",
+    "fours": "1",
+    "sixes": "3",
+    "SR": "227.27",
+    "venue": "Dubai",
+    "date": "Nov 1 2020",
+    "opponent": "Rajasthan Royals",
+    "result": "KKR won by 60 runs"
+  }
+][
+  {
+    "runs": "16",
+    "balls": "10",
+    "fours": "2",
+    "sixes": "1",
+    "SR": "160.00",
+    "venue": "Sharjah",
+    "date": "Oct 12 2020",
+    "opponent": "Royal Challengers Bangalore",
+    "result": "RCB won by 82 runs"
+  }
+]

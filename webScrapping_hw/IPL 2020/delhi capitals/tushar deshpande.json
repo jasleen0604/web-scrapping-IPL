@@ -1,0 +1,25 @@
+[
+  {
+    "runs": "20",
+    "balls": "9",
+    "fours": "2",
+    "sixes": "1",
+    "SR": "222.22",
+    "venue": "Dubai",
+    "date": "Oct 27 2020",
+    "opponent": "Sunrisers Hyderabad",
+    "result": "Sunrisers won by 88 runs"
+  }
+][
+  {
+    "runs": "1",
+    "balls": "3",
+    "fours": "0",
+    "sixes": "0",
+    "SR": "33.33",
+    "venue": "Abu Dhabi",
+    "date": "Oct 24 2020",
+    "opponent": "Kolkata Knight Riders",
+    "result": "KKR won by 59 runs"
+  }
+]

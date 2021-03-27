@@ -1,0 +1,85 @@
+[
+  {
+    "runs": "66",
+    "balls": "56",
+    "fours": "8",
+    "sixes": "2",
+    "SR": "117.86",
+    "venue": "Sharjah",
+    "date": "Oct 26 2020",
+    "opponent": "Kolkata Knight Riders",
+    "result": "Kings XI won by 8 wickets (with 7 balls remaining)"
+  }
+][
+  {
+    "runs": "0",
+    "balls": "1",
+    "fours": "0",
+    "sixes": "0",
+    "SR": "0.00",
+    "venue": "Abu Dhabi",
+    "date": "Oct 30 2020",
+    "opponent": "Rajasthan Royals",
+    "result": "Royals won by 7 wickets (with 15 balls remaining)"
+  }
+][
+  {
+    "runs": "27",
+    "balls": "16",
+    "fours": "0",
+    "sixes": "2",
+    "SR": "168.75",
+    "venue": "Dubai",
+    "date": "Oct 4 2020",
+    "opponent": "Chennai Super Kings",
+    "result": "Super Kings won by 10 wickets (with 14 balls remaining)"
+  }
+][
+  {
+    "runs": "14",
+    "balls": "15",
+    "fours": "1",
+    "sixes": "0",
+    "SR": "93.33",
+    "venue": "Abu Dhabi",
+    "date": "Nov 1 2020",
+    "opponent": "Chennai Super Kings",
+    "result": "Super Kings won by 9 wickets (with 7 balls remaining)"
+  }
+][
+  {
+    "runs": "17",
+    "balls": "14",
+    "fours": "1",
+    "sixes": "0",
+    "SR": "121.43",
+    "venue": "Dubai",
+    "date": "Oct 24 2020",
+    "opponent": "Sunrisers Hyderabad",
+    "result": "Kings XI won by 12 runs"
+  }
+][
+  {
+    "runs": "0",
+    "balls": "1",
+    "fours": "0",
+    "sixes": "0",
+    "SR": "0.00",
+    "venue": "Abu Dhabi",
+    "date": "Oct 10 2020",
+    "opponent": "Kolkata Knight Riders",
+    "result": "KKR won by 2 runs"
+  }
+][
+  {
+    "runs": "6",
+    "balls": "6",
+    "fours": "0",
+    "sixes": "0",
+    "SR": "100.00",
+    "venue": "Dubai",
+    "date": "Oct 8 2020",
+    "opponent": "Sunrisers Hyderabad",
+    "result": "Sunrisers won by 69 runs"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "runs": "19",
+    "balls": "16",
+    "fours": "1",
+    "sixes": "0",
+    "SR": "118.75",
+    "venue": "Abu Dhabi",
+    "date": "Oct 21 2020",
+    "opponent": "Royal Challengers Bangalore",
+    "result": "RCB won by 8 wickets (with 39 balls remaining)"
+  }
+][
+  {
+    "runs": "24",
+    "balls": "13",
+    "fours": "3",
+    "sixes": "1",
+    "SR": "184.62",
+    "venue": "Sharjah",
+    "date": "Oct 26 2020",
+    "opponent": "Punjab Kings",
+    "result": "Kings XI won by 8 wickets (with 7 balls remaining)"
+  }
+]

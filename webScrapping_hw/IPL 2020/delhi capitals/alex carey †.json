@@ -1,0 +1,37 @@
+[
+  {
+    "runs": "14",
+    "balls": "9",
+    "fours": "0",
+    "sixes": "0",
+    "SR": "155.56",
+    "venue": "Abu Dhabi",
+    "date": "Oct 11 2020",
+    "opponent": "Mumbai Indians",
+    "result": "Mum Indians won by 5 wickets (with 2 balls remaining)"
+  }
+][
+  {
+    "runs": "4",
+    "balls": "7",
+    "fours": "0",
+    "sixes": "0",
+    "SR": "57.14",
+    "venue": "Sharjah",
+    "date": "Oct 17 2020",
+    "opponent": "Chennai Super Kings",
+    "result": "Capitals won by 5 wickets (with 1 ball remaining)"
+  }
+][
+  {
+    "runs": "14",
+    "balls": "13",
+    "fours": "0",
+    "sixes": "1",
+    "SR": "107.69",
+    "venue": "Dubai",
+    "date": "Oct 14 2020",
+    "opponent": "Rajasthan Royals",
+    "result": "Capitals won by 13 runs"
+  }
+]

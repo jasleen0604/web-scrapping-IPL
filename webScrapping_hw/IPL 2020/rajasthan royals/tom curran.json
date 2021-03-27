@@ -1,0 +1,49 @@
+[
+  {
+    "runs": "54",
+    "balls": "36",
+    "fours": "2",
+    "sixes": "3",
+    "SR": "150.00",
+    "venue": "Dubai",
+    "date": "Sep 30 2020",
+    "opponent": "Kolkata Knight Riders",
+    "result": "KKR won by 37 runs"
+  }
+][
+  {
+    "runs": "4",
+    "balls": "1",
+    "fours": "1",
+    "sixes": "0",
+    "SR": "400.00",
+    "venue": "Sharjah",
+    "date": "Sep 27 2020",
+    "opponent": "Punjab Kings",
+    "result": "Royals won by 4 wickets (with 3 balls remaining)"
+  }
+][
+  {
+    "runs": "10",
+    "balls": "9",
+    "fours": "1",
+    "sixes": "0",
+    "SR": "111.11",
+    "venue": "Sharjah",
+    "date": "Sep 22 2020",
+    "opponent": "Chennai Super Kings",
+    "result": "Royals won by 16 runs"
+  }
+][
+  {
+    "runs": "15",
+    "balls": "16",
+    "fours": "1",
+    "sixes": "0",
+    "SR": "93.75",
+    "venue": "Abu Dhabi",
+    "date": "Oct 6 2020",
+    "opponent": "Mumbai Indians",
+    "result": "Mum Indians won by 57 runs"
+  }
+]

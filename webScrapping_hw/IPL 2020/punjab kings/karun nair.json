@@ -1,0 +1,37 @@
+[
+  {
+    "runs": "0",
+    "balls": "3",
+    "fours": "0",
+    "sixes": "0",
+    "SR": "0.00",
+    "venue": "Abu Dhabi",
+    "date": "Oct 1 2020",
+    "opponent": "Mumbai Indians",
+    "result": "Mum Indians won by 48 runs"
+  }
+][
+  {
+    "runs": "1",
+    "balls": "3",
+    "fours": "0",
+    "sixes": "0",
+    "SR": "33.33",
+    "venue": "Dubai",
+    "date": "Sep 20 2020",
+    "opponent": "Delhi Capitals",
+    "result": "Match tied (Capitals won the one-over eliminator)"
+  }
+][
+  {
+    "runs": "15",
+    "balls": "8",
+    "fours": "2",
+    "sixes": "0",
+    "SR": "187.50",
+    "venue": "Dubai",
+    "date": "Sep 24 2020",
+    "opponent": "Royal Challengers Bangalore",
+    "result": "Kings XI won by 97 runs"
+  }
+]

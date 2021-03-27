@@ -1,0 +1,37 @@
+[
+  {
+    "runs": "2",
+    "balls": "3",
+    "fours": "0",
+    "sixes": "0",
+    "SR": "66.67",
+    "venue": "Dubai",
+    "date": "Nov 1 2020",
+    "opponent": "Kolkata Knight Riders",
+    "result": "KKR won by 60 runs"
+  }
+][
+  {
+    "runs": "2",
+    "balls": "3",
+    "fours": "0",
+    "sixes": "0",
+    "SR": "66.67",
+    "venue": "Sharjah",
+    "date": "Oct 9 2020",
+    "opponent": "Delhi Capitals",
+    "result": "Capitals won by 46 runs"
+  }
+][
+  {
+    "runs": "0",
+    "balls": "0",
+    "fours": "0",
+    "sixes": "0",
+    "SR": "0.00",
+    "venue": "Abu Dhabi",
+    "date": "Oct 6 2020",
+    "opponent": "Mumbai Indians",
+    "result": "Mum Indians won by 57 runs"
+  }
+]
